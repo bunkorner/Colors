@@ -1,1 +1,1 @@
-This is a Red Color.
+This is not a Red Color and not a blue color.
